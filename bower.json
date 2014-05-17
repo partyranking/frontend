@@ -1,0 +1,12 @@
+{
+  "name": "party-ranking",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.2.15",
+    "angular-resource": "~1.2.15",
+    "angular-route": "~1.2.15",
+    "angular-cookies": "~1.2.16",
+    "js-base64": "~2.1.5"
+  }
+}
